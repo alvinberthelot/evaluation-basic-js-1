@@ -2,7 +2,7 @@ var expect = require('chai').expect
 var program = require('../src/exercise3')
 var applyMap = program.run
 
-describe.only(`${program.title}`, function() {
+describe(`${program.title}`, function() {
   it('Function applyMap without inputs should return an empty array', function() {
     var output = []
     expect(applyMap()).to.be.eql(output)

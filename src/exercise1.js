@@ -1,5 +1,14 @@
 var removeNegativeValue = function(values) {
-  // Your future job begins here ...
+  var result = []
+  if (values) {
+    for (let i = 0; i < values.length; i++) {
+      var value = values[i]
+      if (value >= 0) {
+        result.push(value)
+      }
+    }
+  }
+  return result
 }
 
 module.exports = {
