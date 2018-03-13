@@ -42,13 +42,13 @@ All tests describe in file **_test/exercise1.test.js_** should pass with success
 
 After finish this exercise, please commit the appropriate file.
 
-    git add exercise1.js
+    git add src/exercise1.js
 
     git commit -m "Exercise 1"
 
 ### Exercise 2
 
-Implement the function `mapCustomer(input)` in file **_src/exercise1.js_** where the input is an object representing a customer.
+Implement the function `mapCustomer(input)` in file **_src/exercise2.js_** where the input is an object representing a customer.
 
 The function should calculate all the money spent by the customer.
 
@@ -60,13 +60,13 @@ All tests describe in file **_test/exercise2.test.js_** should pass with success
 
 After finish this exercise, please commit the appropriate file.
 
-    git add exercise2.js
+    git add src/exercise2.js
 
     git commit -m "Exercise 2"
 
 ### Exercise 3
 
-Implement the function `applyMap(inputValues, inputMaps)` in file **_src/exercise1.js_** where the inputs are an array of values and an array of functions.
+Implement the function `applyMap(inputValues, inputMaps)` in file **_src/exercise3.js_** where the inputs are an array of values and an array of functions.
 
 The function should apply each map function on each values.
 
@@ -78,7 +78,7 @@ All tests describe in file **_test/exercise3.test.js_** should pass with success
 
 After finish this exercise, please commit the appropriate file.
 
-    git add exercise3.js
+    git add src/exercise3.js
 
     git commit -m "Exercise 3"
 
@@ -96,6 +96,6 @@ All tests describe in file **_test/exercise4.test.js_** should pass with success
 
 After finish this exercise, please commit the appropriate file.
 
-    git add exercise4.js
+    git add src/exercise4.js
 
     git commit -m "Exercise 4"
