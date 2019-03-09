@@ -12,7 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/alvinberthelot/boilerplate-evaluations-node-js.git"
   },
-  "keywords": ["evaluation", "students", "nodejs", "node", "node-js"],
+  "keywords": [
+    "evaluation",
+    "students",
+    "nodejs",
+    "node",
+    "node-js"
+  ],
   "author": "Alvin Berthelot",
   "license": "ISC",
   "bugs": {
@@ -21,7 +27,7 @@
   "homepage": "https://github.com/alvinberthelot/boilerplate-evaluations-node-js#readme",
   "devDependencies": {
     "chai": "4.1.2",
-    "eslint": "4.17.0",
+    "eslint": "5.15.1",
     "eslint-plugin-mocha": "4.11.0",
     "mocha": "5.0.1"
   },
